@@ -1,0 +1,20 @@
+//
+//  AppDelegate.swift
+//  NestScrollView
+//
+//  Created by 苏冬冬 on 2022/7/27.
+//
+
+import UIKit
+
+@main
+class AppDelegate: UIResponder, UIApplicationDelegate {
+
+    var window: UIWindow?
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        // Override point for customization after application launch.
+        return true
+    }
+
+}
+
