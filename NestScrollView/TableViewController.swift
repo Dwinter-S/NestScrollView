@@ -56,6 +56,9 @@ extension TableViewController: UITableViewDataSource, UITableViewDelegate {
     
     func scrollViewWillBeginDecelerating(_ scrollView: UIScrollView) {
         print("delegate tableViewWillBeginDecelerating")
+        
+        
+        
     }
     
     func scrollViewDidEndDecelerating(_ scrollView: UIScrollView) {
